@@ -63,3 +63,4 @@ tmp/
 temp/
 
 /generated/prisma
+dev.db
